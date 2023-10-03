@@ -1,4 +1,4 @@
-module github.com/delveper/env
+module github.com/tyrzen/env
 
 go 1.20
 
